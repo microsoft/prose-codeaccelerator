@@ -1,3 +1,5 @@
+__PROSE Code Accelerator for Python is no longer under active development.  For more information about the PROSE project, see [the team site](https://microsoft.github.io/prose).__
+
 # Microsoft PROSE Code Accelerator for Python
 
 ## Availability
